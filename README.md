@@ -1,7 +1,9 @@
 ## Ola, Eu sou Edgar Castardeli 👋
 
 - 🔭 Hoje trabalho com frond-end e controladoria com CRC ativo
+
 - 🌱 Tenho ampliado minhas competências na área de desenvolvimento front-end, com foco em HTML, CSS e JavaScript.
+
 - 💬 Sou um profissional versátil, com ampla experiência em gestão administrativa e financeira, atuando em áreas como controladoria, gestão de contratos, manutenção e TI. Ao longo da minha trajetória, desenvolvi habilidades sólidas em liderança de equipes, otimização de processos e tomada de decisão estratégica, sempre com foco em eficiência, conformidade e resultados.
 Nos últimos anos, aprofundei meus conhecimentos em tecnologia, especialmente em análise de dados com Power BI e SQL, criando dashboards interativos e relatórios personalizados que geram insights em tempo real. Essa vivência me permitiu integrar soluções analíticas ao contexto corporativo, contribuindo diretamente para a inteligência de negócios.
 Além disso, tenho ampliado minhas competências na área de desenvolvimento front-end, com foco em HTML, CSS e JavaScript, aplicando esses conhecimentos na criação de interfaces modernas, responsivas e voltadas à experiência do usuário. Busco continuamente aprimorar minhas habilidades para entregar soluções completas, unindo dados, design e estratégia.
